@@ -8,9 +8,10 @@
         android:layout_height="wrap_content"
         android:id="@+id/my_btn"
         android:text="接收" />
+
     <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
         android:id="@+id/view_text"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:gravity="center" />
 </LinearLayout>
